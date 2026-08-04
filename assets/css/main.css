@@ -4618,7 +4618,7 @@ input, select, textarea {
 			vertical-align: middle;
 			width: 7rem;
 		}
-
+		
 			#navPanel .close:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
